@@ -1,0 +1,84 @@
+[intro_tagline]
+sv = "Datavetenskapsstudent som hittar balansen mellan kod och konst."
+en = "Comp/Sci student striking the balance between author and artist."
+
+
+[ongoing]
+sv = "pågående"
+en = "ongoing"
+
+[experience_title]
+sv = "Erfarenhet"
+en = "Experience"
+
+[experience_liu_title]
+sv = "Civilingenjörsexamen, Linköpings universitet"
+en = "MSc in IT, Linköping University"
+
+[experience_liu_text]
+en = "The IT program at Linköping University is a five-year program balancing hard maths, computer science, ethics and philosophy with strong leadership and communication skills through Problem Based Learning (PBL)."
+sv = "LiUs IT-program är en femårig utbildning som balanserar matematik, datavetenskap, etik och filosofi med starka ledarskaps- och kommunikationsfärdigheter genom Problem Based Learning (PBL)."
+
+[experience_unions_title]
+en = "Student unions at Linköping University"
+sv = "Studentföreningar vid Linköpings universitet"
+
+[experience_webbu_title]
+en = "Developer at D-Sektionens Webbutskott"
+sv = "Utvecklare i D-Sektionens Webbutskott"
+
+[experience_webbu_text]
+en = "Improved D-Sektionen.se's carbon score by X% by moving to a more sustainable statically generated NextJS frontend."
+sv = "Förbättrade D-Sektionen.se's miljöpåverkan med X% genom att byta till en mer hållbar statiskt genererad NextJS frontend."
+
+[experience_dlan_title]
+en = "Webmaster at D-LAN"
+sv = "Webbansvarig på D-LAN"
+
+[experience_dlan_text]
+en = "Increased ticket sales by XX% through a new web frontend and a responsive multi-step ticket form."
+sv = "Ökade biljettförsäljningen med XX% genom en ny web frontend och ett responsivt flerstegsformulär för biljettförsäljning."
+
+[experience_liss_title]
+en = "Graphic designer at Linköpings Studentspex"
+sv = "Grafisk formgivare på Linköpings Studentspex"
+
+[experience_liss_text]
+en = "Program sheets I designed during the year sold XX% better than previous years."
+sv = "Programblad jag designade under året sålde XX% bättre än tidigare år."
+
+[experience_anyday_title]
+en = "Full Stack Developer at Anyday AB"
+sv = "Fullstack-utvecklare på Anyday AB"
+
+[experience_anyday_text]
+en = "At web consulting startup Anyday AB I worked on, launched and maintained full stack web solutions for local and multinational clients."
+sv = "På webbkonsultföretaget Anyday AB arbetade jag på, lanserade och underhöll fullstack-webblösningar för både och internationella kunder."
+
+[projects_title]
+sv = "Projekt"
+en = "Projects"
+
+[projects_stadiaplus_title]
+sv = "StadiaPlus"
+en = "StadiaPlus"
+
+[projects_stadiaplus_text]
+en = """
+Peaking at 30 000 users, StadiaPlus was the leading chrome
+extension for Google's now retired Stadia platform.
+"""
+sv = """
+Med 30 000 användare var StadiaPlus det ledande
+chrome-tillägget för Googles nu nedstängda Stadia-plattform.
+"""
+
+[skills_title]
+en = "Skills"
+sv = "Färdigheter"
+
+[skills_text]
+en = """"""
+sv = """
+Med erfarenhet inom flera delar av processen samt en spets inom frontend-webbutveckling och design fyller jag både rollen som utvecklare och som designer. Jag arbetar självständigt och löser problem utan kompromisser på designkvalitet.
+"""

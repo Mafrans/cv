@@ -1,7 +1,8 @@
+#import "i18n.typ": __
 #let icon(name) = text(font: "FiraCode Nerd Font")[#name]
 #let item(icon_name, name) = [#icon(icon_name) #h(4pt) #name \ ]
 
-== Skills
+== #__("skills_title")
 
 #box(height: 80pt, grid(columns: (1fr, 1fr),
     grid.cell(columns(2)[
@@ -17,6 +18,6 @@
         #item("\u{e7b0}", "Docker")
     ]),
     grid.cell[
-        #lorem(30)
+      #__("skills_text")
     ]
 ))

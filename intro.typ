@@ -1,2 +1,4 @@
+#import "i18n.typ": __
+
 = Malte Klüft
-_Comp/Sci student striking the balance between author and artist._
+_#__("intro_tagline")_
