@@ -3,9 +3,9 @@
 #let divider() = pad( top: 12pt, bottom: 12pt, line(length: 100%, stroke: color.silver))
 
 // Layout
-#grid(columns: (2fr, 1fr), gutter: 18pt,
+#grid(columns: (2fr, 1fr),
     include "intro.typ",
-    include "contact_info.typ"
+    align(right, include "contact_info.typ")
 )
 
 #divider()
@@ -18,5 +18,3 @@
 #divider()
 
 #include "skills.typ"
-
-#divider()

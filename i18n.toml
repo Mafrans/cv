@@ -29,7 +29,8 @@ sv = "Utvecklare i D-Sektionens Webbutskott"
 
 [experience_webbu_text]
 en = "Improved D-Sektionen.se's carbon score by X% by moving to a more sustainable statically generated NextJS frontend."
-sv = "Förbättrade D-Sektionen.se's miljöpåverkan med X% genom att byta till en mer hållbar statiskt genererad NextJS frontend."
+# sv = "Förbättrade D-Sektionen.se's miljöpåverkan med X% genom att byta till en mer hållbar statiskt genererad NextJS frontend."
+sv = "På D-Sektionens webbutskott är min roll att utveckla nya lösningar för sektionens webbplats D-Sektionen.se, samt utveckla admin-lösningar för sektionsaktiva"
 
 [experience_dlan_title]
 en = "Webmaster at D-LAN"
@@ -37,7 +38,8 @@ sv = "Webbansvarig på D-LAN"
 
 [experience_dlan_text]
 en = "Increased ticket sales by XX% through a new web frontend and a responsive multi-step ticket form."
-sv = "Ökade biljettförsäljningen med XX% genom en ny web frontend och ett responsivt flerstegsformulär för biljettförsäljning."
+#sv = "Ökade biljettförsäljningen med XX% genom en ny web frontend och ett responsivt flerstegsformulär för biljettförsäljning."
+sv = "Min roll på D-LAN har inneburit en total omdesign av webbsidan samt migrering till full-stack NextJS."
 
 [experience_liss_title]
 en = "Graphic designer at Linköpings Studentspex"
@@ -45,7 +47,8 @@ sv = "Grafisk formgivare på Linköpings Studentspex"
 
 [experience_liss_text]
 en = "Program sheets I designed during the year sold XX% better than previous years."
-sv = "Programblad jag designade under året sålde XX% bättre än tidigare år."
+#sv = "Programblad jag designade under året sålde XX% bättre än tidigare år."
+sv = "Som grafiker på LiSS designade jag programblad, affischer/banderoller, t-shirts och digital markadsföring genom Facebook och Instagram."
 
 [experience_anyday_title]
 en = "Full Stack Developer at Anyday AB"
@@ -71,6 +74,21 @@ extension for Google's now retired Stadia platform.
 sv = """
 Med 30 000 användare var StadiaPlus det ledande
 chrome-tillägget för Googles nu nedstängda Stadia-plattform.
+"""
+
+[projects_shellshock_title]
+en = "Operation: Shellshock"
+sv = "Operation: Shellshock"
+
+[projects_shellshock_text]
+en = """
+Operation Shellshock is a 2D platformer game made in Godot during
+the 2024 LiU Spring Game Jam. I produced all visual assets for
+the game.
+"""
+sv = """
+Operation Shellshock är ett 2D-plattformsspel gjort i Godot under
+LiU Spring Game Jam 2024. Jag producerade all grafik för spelet.
 """
 
 [skills_title]
