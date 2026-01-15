@@ -1,4 +1,4 @@
-[intro_tagline]
+[intro.tagline]
 sv = "Datavetenskapsstudent som hittar balansen mellan kod och konst."
 en = "Comp/Sci student striking the balance between author and artist."
 
@@ -7,66 +7,66 @@ en = "Comp/Sci student striking the balance between author and artist."
 sv = "pågående"
 en = "ongoing"
 
-[experience_title]
+[experience.title]
 sv = "Erfarenhet"
 en = "Experience"
 
-[experience_liu_title]
+[experience.liu.title]
 sv = "Civilingenjörsexamen, Linköpings universitet"
 en = "MSc in IT, Linköping University"
 
-[experience_liu_text]
+[experience.liu.text]
 en = "The IT program at Linköping University is a five-year program balancing hard maths, computer science, ethics and philosophy with strong leadership and communication skills through Problem Based Learning (PBL)."
 sv = "LiUs IT-program är en femårig utbildning som balanserar matematik, datavetenskap, etik och filosofi med starka ledarskaps- och kommunikationsfärdigheter genom Problem Based Learning (PBL)."
 
-[experience_unions_title]
+[experience.unions.title]
 en = "Student unions at Linköping University"
 sv = "Studentföreningar vid Linköpings universitet"
 
-[experience_webbu_title]
+[experience.webbu.title]
 en = "Developer at D-Sektionens Webbutskott"
 sv = "Utvecklare i D-Sektionens Webbutskott"
 
-[experience_webbu_text]
+[experience.webbu.text]
 en = "Improved D-Sektionen.se's carbon score by X% by moving to a more sustainable statically generated NextJS frontend."
 # sv = "Förbättrade D-Sektionen.se's miljöpåverkan med X% genom att byta till en mer hållbar statiskt genererad NextJS frontend."
 sv = "På D-Sektionens webbutskott är min roll att utveckla nya lösningar för sektionens webbplats D-Sektionen.se, samt utveckla admin-lösningar för sektionsaktiva"
 
-[experience_dlan_title]
+[experience.dlan.title]
 en = "Webmaster at D-LAN"
 sv = "Webbansvarig på D-LAN"
 
-[experience_dlan_text]
+[experience.dlan.text]
 en = "Increased ticket sales by XX% through a new web frontend and a responsive multi-step ticket form."
 #sv = "Ökade biljettförsäljningen med XX% genom en ny web frontend och ett responsivt flerstegsformulär för biljettförsäljning."
 sv = "Min roll på D-LAN har inneburit en total omdesign av webbsidan samt migrering till full-stack NextJS."
 
-[experience_liss_title]
+[experience.liss.title]
 en = "Graphic designer at Linköpings Studentspex"
 sv = "Grafisk formgivare på Linköpings Studentspex"
 
-[experience_liss_text]
+[experience.liss.text]
 en = "Program sheets I designed during the year sold XX% better than previous years."
 #sv = "Programblad jag designade under året sålde XX% bättre än tidigare år."
 sv = "Som grafiker på LiSS designade jag programblad, affischer/banderoller, t-shirts och digital markadsföring genom Facebook och Instagram."
 
-[experience_anyday_title]
+[experience.anyday.title]
 en = "Full Stack Developer at Anyday AB"
 sv = "Fullstack-utvecklare på Anyday AB"
 
-[experience_anyday_text]
+[experience.anyday.text]
 en = "At web consulting startup Anyday AB I worked on, launched and maintained full stack web solutions for local and multinational clients."
 sv = "På webbkonsultföretaget Anyday AB arbetade jag på, lanserade och underhöll fullstack-webblösningar för både och internationella kunder."
 
-[projects_title]
+[projects.title]
 sv = "Projekt"
 en = "Projects"
 
-[projects_stadiaplus_title]
+[projects.stadiaplus.title]
 sv = "StadiaPlus"
 en = "StadiaPlus"
 
-[projects_stadiaplus_text]
+[projects.stadiaplus.text]
 en = """
 Peaking at 30 000 users, StadiaPlus was the leading chrome
 extension for Google's now retired Stadia platform.
@@ -76,11 +76,11 @@ Med 30 000 användare var StadiaPlus det ledande
 chrome-tillägget för Googles nu nedstängda Stadia-plattform.
 """
 
-[projects_shellshock_title]
+[projects.shellshock.title]
 en = "Operation: Shellshock"
 sv = "Operation: Shellshock"
 
-[projects_shellshock_text]
+[projects.shellshock.text]
 en = """
 Operation Shellshock is a 2D platformer game made in Godot during
 the 2024 LiU Spring Game Jam. I produced all visual assets for
@@ -91,11 +91,11 @@ Operation Shellshock är ett 2D-plattformsspel gjort i Godot under
 LiU Spring Game Jam 2024. Jag producerade all grafik för spelet.
 """
 
-[skills_title]
+[skills.title]
 en = "Skills"
 sv = "Färdigheter"
 
-[skills_text]
+[skills.text]
 en = """"""
 sv = """
 Med erfarenhet inom flera delar av processen samt en spets inom frontend-webbutveckling och design fyller jag både rollen som utvecklare och som designer. Jag arbetar självständigt och löser problem utan kompromisser på designkvalitet.

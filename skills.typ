@@ -2,7 +2,7 @@
 #let icon(name) = text(font: "FiraCode Nerd Font")[#name]
 #let item(icon_name, name) = [#icon(icon_name) #h(4pt) #name \ ]
 
-== #__("skills_title")
+== #__("skills", "title")
 
 #box(height: 80pt, grid(columns: (1fr, 1fr),
     grid.cell(columns(2)[
@@ -18,6 +18,6 @@
         #item("\u{e7b0}", "Docker")
     ]),
     grid.cell[
-      #__("skills_text")
+      #__("skills", "text")
     ]
 ))

@@ -1,4 +1,4 @@
 #import "i18n.typ": __
 
 = Malte Klüft
-_#__("intro_tagline")_
+_#__("intro", "tagline")_

@@ -12,7 +12,7 @@
     ))
 }
 
-== #__("projects_title")
+== #__("projects", "title")
 
-#project(__("projects_shellshock_title"), "2024", "github.com/isterkvarn/operation_shell_shock", __("projects_shellshock_text"))
-#project(__("projects_stadiaplus_title"), "2020", "github.com/Mafrans/StadiaPlus", __("projects_stadiaplus_text"))
+#project(__("projects", "shellshock", "title"), "2024", "github.com/isterkvarn/operation_shell_shock", __("projects", "shellshock", "text"))
+#project(__("projects", "stadiaplus", "title"), "2020", "github.com/Mafrans/StadiaPlus", __("projects", "stadiaplus", "text"))

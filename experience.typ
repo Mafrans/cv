@@ -17,18 +17,18 @@
   )]
 }
 
-== #__("experience_title")
+== #__("experience", "title")
 
-#experience_item(__("experience_liu_title"), "2023–")[
+#experience_item(__("experience", "liu", "title"), "2023–")[
   #__("experience_liu_text")
 ]
 
-#experience_item(__("experience_unions_title"), "2024–")[
-    #experience_subitem(__("experience_webbu_title"), "2024–", __("experience_webbu_text"))
-    #experience_subitem(__("experience_dlan_title"), "2024–", __("experience_dlan_text"))
-    #experience_subitem(__("experience_liss_title"), "2024–2025", __("experience_liss_text"))
+#experience_item(__("experience", "unions", "title"), "2024–")[
+  #experience_subitem(__("experience", "webbu", "title"), "2024–", __("experience", "webbu", "text"))
+  #experience_subitem(__("experience", "dlan", "title"), "2024–", __("experience", "dlan", "text"))
+  #experience_subitem(__("experience", "liss", "title"), "2024–2025", __("experience", "liss", "text"))
 ]
 
-#experience_item(__("experience_anyday_title"), "2021–2023")[
-  #__("experience_anyday_text")
+#experience_item(__("experience", "anyday", "title"), "2021–2023")[
+  #__("experience", "anyday", "text")
 ]
